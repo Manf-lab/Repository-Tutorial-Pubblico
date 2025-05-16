@@ -10,3 +10,5 @@ Forse ci siamo
 
 L'ho sempre fatto,
 Ma mai visto
+
+Ora si prova dall'altro lato
